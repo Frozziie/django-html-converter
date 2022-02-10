@@ -2,7 +2,7 @@
 Simple HTML Converter using ckeditor library.
 
 ## Screenshots
-<img src="./screenshots/text-to-HTML-converter.png" width="200">
+<img src="./screenshots/text-to-HTML-converter.png" width="600">
 
 
 ### Clone the project
